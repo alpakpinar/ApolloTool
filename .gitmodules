@@ -8,8 +8,8 @@
 	branch = develop
 [submodule "BUTool"]
 	path = BUTool
-	url = https://github.com/BU-Tools/BUTool.git
-	branch = develop
+	url = https://github.com/alpakpinar/BUTool
+	branch = patch-1
 [submodule "plugins/ApolloSM_plugin"]
 	path = plugins/ApolloSM_plugin
 	url = https://github.com/apollo-lhc/ApolloSM_plugin.git
